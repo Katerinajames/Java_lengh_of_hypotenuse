@@ -1,1 +1,1 @@
-# Java_lengh_of_hypotenuse
+# Java_length_of_hypotenuse
